@@ -11,7 +11,7 @@ public class First {
 		
 	
 		
-		public static displayAddress();
+	
 	}
 
 }
